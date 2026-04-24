@@ -4,7 +4,7 @@
   "description": "SRM Full Stack Challenge — BFHL API",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node \"index 1.js\"",
     "dev": "nodemon index.js"
   },
   "dependencies": {
